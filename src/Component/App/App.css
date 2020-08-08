@@ -1,0 +1,9 @@
+.bill-container{
+  width: 500px;
+  box-shadow: 2px 5px 20px grey;
+  height: 450px;
+  margin: auto;
+  margin-top: 70px;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-sizing: border-box
+}
