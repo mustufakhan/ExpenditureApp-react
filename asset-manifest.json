@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ExpenditureApp-react.git/static/css/main.962deab7.chunk.css",
-    "main.js": "/ExpenditureApp-react.git/static/js/main.d7919473.chunk.js",
-    "main.js.map": "/ExpenditureApp-react.git/static/js/main.d7919473.chunk.js.map",
-    "runtime-main.js": "/ExpenditureApp-react.git/static/js/runtime-main.52f09ab8.js",
-    "runtime-main.js.map": "/ExpenditureApp-react.git/static/js/runtime-main.52f09ab8.js.map",
-    "static/js/2.34a9e25e.chunk.js": "/ExpenditureApp-react.git/static/js/2.34a9e25e.chunk.js",
-    "static/js/2.34a9e25e.chunk.js.map": "/ExpenditureApp-react.git/static/js/2.34a9e25e.chunk.js.map",
-    "index.html": "/ExpenditureApp-react.git/index.html",
-    "precache-manifest.9eb475891de364adc1f28c5bfda68b66.js": "/ExpenditureApp-react.git/precache-manifest.9eb475891de364adc1f28c5bfda68b66.js",
-    "service-worker.js": "/ExpenditureApp-react.git/service-worker.js",
-    "static/css/main.962deab7.chunk.css.map": "/ExpenditureApp-react.git/static/css/main.962deab7.chunk.css.map",
-    "static/js/2.34a9e25e.chunk.js.LICENSE.txt": "/ExpenditureApp-react.git/static/js/2.34a9e25e.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/ExpenditureApp-react.git/static/media/bg.c0db380d.jpg"
+    "main.css": "/ExpenditureApp-react/static/css/main.b2bb772f.chunk.css",
+    "main.js": "/ExpenditureApp-react/static/js/main.735c86d9.chunk.js",
+    "main.js.map": "/ExpenditureApp-react/static/js/main.735c86d9.chunk.js.map",
+    "runtime-main.js": "/ExpenditureApp-react/static/js/runtime-main.9a7fddc0.js",
+    "runtime-main.js.map": "/ExpenditureApp-react/static/js/runtime-main.9a7fddc0.js.map",
+    "static/js/2.34a9e25e.chunk.js": "/ExpenditureApp-react/static/js/2.34a9e25e.chunk.js",
+    "static/js/2.34a9e25e.chunk.js.map": "/ExpenditureApp-react/static/js/2.34a9e25e.chunk.js.map",
+    "index.html": "/ExpenditureApp-react/index.html",
+    "precache-manifest.98ead378f1448d5ede3802e6bef9ddb4.js": "/ExpenditureApp-react/precache-manifest.98ead378f1448d5ede3802e6bef9ddb4.js",
+    "service-worker.js": "/ExpenditureApp-react/service-worker.js",
+    "static/css/main.b2bb772f.chunk.css.map": "/ExpenditureApp-react/static/css/main.b2bb772f.chunk.css.map",
+    "static/js/2.34a9e25e.chunk.js.LICENSE.txt": "/ExpenditureApp-react/static/js/2.34a9e25e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ExpenditureApp-react/static/media/bg.c0db380d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.52f09ab8.js",
+    "static/js/runtime-main.9a7fddc0.js",
     "static/js/2.34a9e25e.chunk.js",
-    "static/css/main.962deab7.chunk.css",
-    "static/js/main.d7919473.chunk.js"
+    "static/css/main.b2bb772f.chunk.css",
+    "static/js/main.735c86d9.chunk.js"
   ]
 }
