@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './Component/App/App';
 import * as serviceWorker from './serviceWorker';
+import { BillProvider } from './Context/BillContext';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+  <BillProvider><App /></BillProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
